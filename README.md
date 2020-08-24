@@ -2,7 +2,7 @@
 
 This is code to paper Utilizing Convolutional Neural Networks for Image Classification and Securing Mobility of People with Physical and Mental Disabilities in Cloud Systems, By Ismail Hababeh, [Ibrahim Mahameed](https://github.com/ibbu10), Abdelhadi Abdelhadi and Ahmad Barghash.
 
-# Abstract
+# Abstract of our Paper
 Image recognition is widely used for detecting human obstructions and identifying people
 with disabilities. The accuracy of identifying images of handicapped people is powered by the image
 classification techniques that based on deep learning methodologies. Specifically, Convolutional Neural
