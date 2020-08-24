@@ -1,0 +1,4 @@
+Keras
+CV2
+matplotlib
+Numpy
