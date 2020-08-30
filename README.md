@@ -18,4 +18,6 @@ and securing image mobility on cloud system performance. The experimental result
 of the proposed approach in improving disabled people’s image prediction and enhancing the performance
 of securing image mobility in cloud systems.
 
+![Blind](https://github.com/ibbu10/Utilizing-Convolutional-Neural-Networks-for-Image-Classification-and-Securing-Mobility-of-People/blob/master/Blind.jpg)
+
 ![Filtered](https://github.com/ibbu10/Utilizing-Convolutional-Neural-Networks-for-Image-Classification-and-Securing-Mobility-of-People/blob/master/Filtered.png)
