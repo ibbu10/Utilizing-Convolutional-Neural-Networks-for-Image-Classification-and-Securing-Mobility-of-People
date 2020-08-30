@@ -17,3 +17,5 @@ approach is validated by measuring the impact of the deep learning image classif
 and securing image mobility on cloud system performance. The experimental results show the effectiveness
 of the proposed approach in improving disabled people’s image prediction and enhancing the performance
 of securing image mobility in cloud systems.
+
+![Filtered](https://github.com/ibbu10/Utilizing-Convolutional-Neural-Networks-for-Image-Classification-and-Securing-Mobility-of-People/blob/master/Filtered.png)
