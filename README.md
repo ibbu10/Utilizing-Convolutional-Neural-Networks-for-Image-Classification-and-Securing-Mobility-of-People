@@ -1,5 +1,11 @@
 # Utilizing Convolutional Neural Networks for Image Classification and Securing Mobility of People with Physical and Mental Disabilities in Cloud Systems
 
+
+![Blind](https://github.com/ibbu10/Utilizing-Convolutional-Neural-Networks-for-Image-Classification-and-Securing-Mobility-of-People/blob/master/Blind.jpg)
+![Blind2](https://github.com/ibbu10/Utilizing-Convolutional-Neural-Networks-for-Image-Classification-and-Securing-Mobility-of-People/blob/master/Filtered%20copy.png)
+
+
+
 This is code to paper Utilizing Convolutional Neural Networks for Image Classification and Securing Mobility of People with Physical and Mental Disabilities in Cloud Systems, By Ismail Hababeh, [Ibrahim Mahameed](https://github.com/ibbu10), Abdelhadi Abdelhadi and Ahmad Barghash.
 
 If you want to use what's provided here, please cite our paper.
@@ -17,8 +23,3 @@ approach is validated by measuring the impact of the deep learning image classif
 and securing image mobility on cloud system performance. The experimental results show the effectiveness
 of the proposed approach in improving disabled people’s image prediction and enhancing the performance
 of securing image mobility in cloud systems.
-
-![Blind](https://github.com/ibbu10/Utilizing-Convolutional-Neural-Networks-for-Image-Classification-and-Securing-Mobility-of-People/blob/master/Blind.jpg)
-![Blind2](https://github.com/ibbu10/Utilizing-Convolutional-Neural-Networks-for-Image-Classification-and-Securing-Mobility-of-People/blob/master/Filtered%20copy.png)
-
-![Filtered](https://github.com/ibbu10/Utilizing-Convolutional-Neural-Networks-for-Image-Classification-and-Securing-Mobility-of-People/blob/master/Filtered.png)
