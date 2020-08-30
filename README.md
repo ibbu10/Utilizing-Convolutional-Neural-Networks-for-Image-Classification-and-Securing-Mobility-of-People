@@ -1,4 +1,4 @@
-# Utilizing-Convolutional-Neural-Networks-for-Image-Classification-and-Securing-Mobility-of-People
+# Utilizing Convolutional Neural Networks for Image Classification and Securing Mobility of People with Physical and Mental Disabilities in Cloud Systems
 
 This is code to paper Utilizing Convolutional Neural Networks for Image Classification and Securing Mobility of People with Physical and Mental Disabilities in Cloud Systems, By Ismail Hababeh, [Ibrahim Mahameed](https://github.com/ibbu10), Abdelhadi Abdelhadi and Ahmad Barghash.
 
